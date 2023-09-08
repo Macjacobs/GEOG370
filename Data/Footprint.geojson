@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Footprint",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Footprint": "Footprint of Home" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -8760395.188502762466669, 4285167.703362999483943 ], [ -8760381.74124420620501, 4285159.410886890254915 ], [ -8760394.964381786063313, 4285147.084233215078712 ], [ -8760405.049825701862574, 4285152.463136636652052 ], [ -8760395.188502762466669, 4285167.703362999483943 ] ] ] ] } }
+]
+}
