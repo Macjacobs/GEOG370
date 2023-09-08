@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sutcliffe_Dr_GeoJSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Sutcliffe": "Sutcliffe Dr" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -8760364.599737549200654, 4285147.77998111397028 ], [ -8760340.365783330053091, 4285106.236059593968093 ], [ -8760299.975859628990293, 4285088.233693602494895 ], [ -8760246.89195990934968, 4285077.386114094406366 ], [ -8760208.579232284799218, 4285054.306157694198191 ] ] ] } }
+]
+}
